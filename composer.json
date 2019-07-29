@@ -7,6 +7,12 @@
         "name": "Stephen Coakley",
         "email": "me@stephencoakley.com"
     }],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/guckykv/phpws"
+        }
+    ],
     "require": {
         "php": ">=5.5",
         "guckykv/phpws": "dev-master",
